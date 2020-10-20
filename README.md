@@ -23,3 +23,16 @@
 I already know a little about Git but the course at UDACITY and learngitbranching.js.org helped me better understand the basic concepts of Git and what a powerful and at the same time flexible this tool is.
 
 Also, I've learned a lot of new useful commands, and put my knowledge in some order.
+
+<details>
+  <summary>VCS with Git</summary>
+  <img src ="screenshots/vcs with git.jpg">
+</details>
+<details>
+  <summary>Main</summary>
+  <img src ="screenshots/learngitbranching_main.jpg" width=95%>
+</details>
+<details>
+  <summary>Remote</summary>
+  <img src ="screenshots/learngitbranching_remote.jpg" width=95%>
+</details>
