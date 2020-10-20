@@ -20,4 +20,6 @@
 14. [ ] Friends App - real project!
 ***
 ### Git Basics
-I've already known a little about Git but the course at UDACITY and learngitbranching.js.org  helped me better understand the basic concepts of Git, learn a lot of new useful commands, and put my knowledge in some order.
+I already know a little about Git but the course at UDACITY and learngitbranching.js.org helped me better understand the basic concepts of Git and what a powerful and at the same time flexible this tool is.
+
+Also, I've learned a lot of new useful commands, and put my knowledge in some order.
