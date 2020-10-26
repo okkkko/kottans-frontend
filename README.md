@@ -2,7 +2,7 @@
 ## Stage 0. Self-Study
 ### General
 0. [x] [Git Basics](#git-basics)
-1. [ ] Linux CLI and Networking
+1. [x] [Linux CLI and Networking](#linux-cli-and-http)
 2. [ ] VCS (hello gitty), GitHub and Collaboration
 ### Front-End Basics
 3. [ ] Intro to HTML & CSS
@@ -19,7 +19,7 @@
 13. [ ] Website Performance Optimization
 14. [ ] Friends App - real project!
 ***
-### Git Basics
+## Git Basics
 I already know a little about Git but the course at UDACITY and learngitbranching.js.org helped me better understand the basic concepts of Git and what a powerful and at the same time flexible this tool is.
 
 Also, I've learned a lot of new useful commands, and put my knowledge in some order.
@@ -36,3 +36,29 @@ Also, I've learned a lot of new useful commands, and put my knowledge in some or
   <summary>Remote</summary>
   <img src ="screenshots/learngitbranching_remote.jpg" width=95%>
 </details>
+
+## Linux CLI, and HTTP
+#### Linux CLI
+During the Linux Survival tutorial I've learned basic commands, find out about security mode, and how to change it.
+
+Unfortunately, I couldn't practice Linux commands properly, since I am a Windows user. But if I should work with Linux in the future, it won`t be so new to me.
+<details>
+  <summary>Module 1</summary>
+  
+</details>
+<details>
+  <summary>Module 2</summary>
+  
+</details>
+<details>
+  <summary>Module 3</summary>
+  
+</details>
+<details>
+  <summary>Module 4</summary>
+  
+</details>
+
+#### HTTP
+
+The articles were very interesting. Now I have a general idea of HTTP and HTTPS. Definitely, I'll come back to this later for a better understanding.
