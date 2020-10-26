@@ -26,15 +26,15 @@ Also, I've learned a lot of new useful commands, and put my knowledge in some or
 
 <details>
   <summary>VCS with Git</summary>
-  <img src ="screenshots/vcs with git.jpg">
+  <img src ="task_git_intro/vcs with git.jpg">
 </details>
 <details>
   <summary>Main</summary>
-  <img src ="screenshots/learngitbranching_main.jpg" width=95%>
+  <img src ="task_git_intro/learngitbranching_main.jpg" width=95%>
 </details>
 <details>
   <summary>Remote</summary>
-  <img src ="screenshots/learngitbranching_remote.jpg" width=95%>
+  <img src ="task_git_intro/learngitbranching_remote.jpg" width=95%>
 </details>
 
 ## Linux CLI, and HTTP
@@ -44,19 +44,19 @@ During the Linux Survival tutorial I've learned basic commands, find out about s
 Unfortunately, I couldn't practice Linux commands properly, since I am a Windows user. But if I should work with Linux in the future, it won`t be so new to me.
 <details>
   <summary>Module 1</summary>
-  
+  <img src = "task_linux_cli/linux_quiz_1.jpg" width = 95%>
 </details>
 <details>
   <summary>Module 2</summary>
-  
+  <img src = "task_linux_cli/linux_quiz_2.jpg" width = 95%>
 </details>
 <details>
   <summary>Module 3</summary>
-  
+  <img src = "task_linux_cli/linux_quiz_3.jpg" width = 95%>
 </details>
 <details>
   <summary>Module 4</summary>
-  
+  <img src = "task_linux_cli/linux_quiz_4.jpg" width = 95%>
 </details>
 
 #### HTTP
