@@ -61,4 +61,4 @@ Unfortunately, I couldn't practice Linux commands properly, since I am a Windows
 
 #### HTTP
 
-The articles were very interesting. Now I have a general idea of HTTP and HTTPS. Definitely, I'll come back to this later for a better understanding.
+The articles are very interesting. Now I have a general idea of HTTP and HTTPS. Definitely, I'll come back to this later for a better understanding.
