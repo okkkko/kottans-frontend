@@ -3,7 +3,7 @@
 ### General
 0. [x] [Git Basics](#git-basics)
 1. [x] [Linux CLI and Networking](#linux-cli-and-http)
-2. [ ] VCS (hello gitty), GitHub and Collaboration
+2. [x] [VCS (hello gitty), GitHub and Collaboration](#git-collaboration)
 ### Front-End Basics
 3. [ ] Intro to HTML & CSS
 4. [ ] Responsive Web Design
@@ -26,7 +26,7 @@ Also, I've learned a lot of new useful commands, and put my knowledge in some or
 
 <details>
   <summary>VCS with Git</summary>
-  <img src ="task_git_intro/vcs with git.jpg">
+  <img src ="task_git_intro/vcs with git.jpg" width=95%>
 </details>
 <details>
   <summary>Main</summary>
@@ -62,3 +62,20 @@ Unfortunately, I couldn't practice Linux commands properly, since I am a Windows
 #### HTTP
 
 The articles are very interesting. Now I have a general idea of HTTP and HTTPS. Definitely, I'll come back to this later for a better understanding.
+
+## Git Collaboration
+After this course, I feel much more comfortable working with remote repositories. 
+
+Also, I have learned how to contribute to a public project in the right way and some cool rebase commands.
+<details>
+  <summary>GitHub & Collaboration</summary>
+  <img src ="task_git_collaboration/GitHub&Collaboration.jpg" width=95%>
+</details>
+<details>
+  <summary>Main</summary>
+  <img src ="task_git_intro/learngitbranching_main.jpg" width=95%>
+</details>
+<details>
+  <summary>Remote</summary>
+  <img src ="task_git_intro/learngitbranching_remote.jpg" width=95%>
+</details>
