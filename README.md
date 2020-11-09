@@ -5,7 +5,7 @@
 1. [x] [Linux CLI and Networking](#linux-cli-and-http)
 2. [x] [VCS (hello gitty), GitHub and Collaboration](#git-collaboration)
 ### Front-End Basics
-3. [x] [Intro to HTML & CSS](#intro-to-html-&-css)
+3. [x] [Intro to HTML & CSS](#intro-to-html-and-css)
 4. [ ] Responsive Web Design
 5. [ ] HTML & CSS Practice
 6. [ ] JavaScript Basics
@@ -80,7 +80,7 @@ Also, I have learned how to contribute to a public project in the right way and 
   <img src ="task_git_intro/learngitbranching_remote.jpg" width=95%>
 </details>
 
-## Intro to HTML & CSS
+## Intro to HTML and CSS
 Most of this information was familiar to me, but it was nice to refresh my knowledge.
 
 Also, I didn't know anything about grid, now I understand how it works and I intend to use it in the future.
