@@ -6,7 +6,7 @@
 2. [x] [VCS (hello gitty), GitHub and Collaboration](#git-collaboration)
 ### Front-End Basics
 3. [x] [Intro to HTML & CSS](#intro-to-html-and-css)
-4. [ ] Responsive Web Design
+4. [x] [Responsive Web Design](#responsive-web-design)
 5. [ ] HTML & CSS Practice
 6. [ ] JavaScript Basics
 7. [ ] Document Object Model - practice
@@ -96,3 +96,28 @@ Also, I didn't know anything about grid, now I understand how it works and I int
   <summary>Learn CSS</summary>
   <img src ="task_html_css_intro/css.jpg" width=95%>
 </details>
+
+## Responsive Web Design
+During this task I learned:
+* remote debugging;
+* the meaning of device-independent pixel; device pixel ratio;
+* that it is a good practice to add max-width for img, embed, video, object;
+* tap targets should be 48px by 48 px;
+* it is possible to add media queries via a link with media attribute;
+* there are different responsive design layouts: mostly fluid, column drops,layout shifter, off-canvas;
+* the optimal line length for body text is 65 characters per line.
+
+I played Flexbox Froggy in the past, but now I have a better understanding of flexbox and it took much less time.
+
+<details>
+  <summary>Responsive Web Design Fundamentals</summary>
+  <img src ="task_responsive_web_design/Responsive Web Design Fundamentals.jpg" width=95%>
+</details>
+<details>
+  <summary>Flexbox Froggy</summary>
+  <img src ="task_responsive_web_design/flexbox froggy.jpg" width=95%>
+</details>
+
+
+
+
