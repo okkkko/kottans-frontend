@@ -7,8 +7,8 @@
 ### Front-End Basics
 3. [x] [Intro to HTML & CSS](#intro-to-html-and-css)
 4. [x] [Responsive Web Design](#responsive-web-design)
-5. [ ] HTML & CSS Practice
-6. [ ] JavaScript Basics
+5. [x] [HTML & CSS Practice](#html-and-css-practice)
+6. [x] [JavaScript Basics](#javaScript-basics)
 7. [ ] Document Object Model - practice
 ### Advanced Topics
 8. [ ] Building a Tiny JS World (pre-OOP) - practice
@@ -118,6 +118,34 @@ I played Flexbox Froggy in the past, but now I have a better understanding of fl
   <img src ="task_responsive_web_design/flexbox froggy.jpg" width=95%>
 </details>
 
+## HTML and CSS Practice
+### Popup-task
 
+[Demo](https://okkkko.github.io/popup_task/) |
+[Code base](https://github.com/okkkko/popup_task/tree/master)
 
+## JavaScript Basics
+<details>
+  <summary>Intro to JS</summary>
+  <img src ="task_js_basics/intro_to_js.jpg" width=95%>
+</details>
+<details>
+  <summary>FreeCodeCamp exercises</summary>
+  <img src ="task_js_basics/free_code_camp.jpg" width=95%>
+</details>
+
+I've already known some JS basics, but a lot of information in this task was new for me.
+I found out about:
+* falsy and truthy values;
+* difference between equals and strict equals operators;
+* difference between x++ and ++x;
+* do...while loops;
+* variable shadowing;
+* hoisting;
+* regular expression;
+* recursion;
+* rest parameter for function parameters;
+* many useful JS methods;
+* special syntax introduced in ES6;
+* principles of functional programming.
 
