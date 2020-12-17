@@ -9,7 +9,7 @@
 4. [x] [Responsive Web Design](#responsive-web-design)
 5. [x] [HTML & CSS Practice](#html-and-css-practice)
 6. [x] [JavaScript Basics](#javaScript-basics)
-7. [ ] Document Object Model - practice
+7. [x] [Document Object Model - practice](#dom)
 ### Advanced Topics
 8. [ ] Building a Tiny JS World (pre-OOP) - practice
 9. [ ] Object oriented JS - practice
@@ -149,3 +149,15 @@ I found out about:
 * special syntax introduced in ES6;
 * principles of functional programming.
 
+## DOM
+<details>
+  <summary>JavaScript and the DOM </summary>
+  <img src ="task_js_dom/js_dom_udacity.jpg" width=95%>
+</details>
+<details>
+  <summary>freecodecamp Algorithm Scripting Challenges</summary>
+  <img src ="task_js_dom/freecodecamp.jpg" width=95%>
+</details>
+
+[Demo](https://okkkko.github.io/js-dom-task/index.html) |
+[Code base](https://github.com/okkkko/frontend-2021-homeworks/tree/js-dom-task/submissions/okkkko/js_dom)
