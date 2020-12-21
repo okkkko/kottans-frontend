@@ -11,7 +11,7 @@
 6. [x] [JavaScript Basics](#javaScript-basics)
 7. [x] [Document Object Model - practice](#dom)
 ### Advanced Topics
-8. [ ] Building a Tiny JS World (pre-OOP) - practice
+8. [x] [Building a Tiny JS World (pre-OOP) - practice](#a-tiny-js-world)
 9. [ ] Object oriented JS - practice
 10. [ ] OOP exercise - practice
 11. [ ] Offline Web Applications
@@ -161,3 +161,7 @@ I found out about:
 
 [Demo](https://okkkko.github.io/js-dom-task/index.html) |
 [Code base](https://github.com/okkkko/frontend-2021-homeworks/tree/js-dom-task/submissions/okkkko/js_dom)
+
+## A Tiny JS World
+[Demo](https://okkkko.github.io/a-tiny-JS-world/) |
+[Code base](https://github.com/okkkko/a-tiny-JS-world/tree/gh-pages)
