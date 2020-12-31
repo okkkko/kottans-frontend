@@ -12,8 +12,8 @@
 7. [x] [Document Object Model - practice](#dom)
 ### Advanced Topics
 8. [x] [Building a Tiny JS World (pre-OOP) - practice](#a-tiny-js-world)
-9. [ ] Object oriented JS - practice
-10. [ ] OOP exercise - practice
+9. [x] [Object oriented JS - practice](#object-oriented-javascript)
+10. [ ] [OOP exercise - practice]
 11. [ ] Offline Web Applications
 12. [ ] Memory pair game — real project!
 13. [ ] Website Performance Optimization
@@ -165,3 +165,26 @@ I found out about:
 ## A Tiny JS World
 [Demo](https://okkkko.github.io/a-tiny-JS-world/) |
 [Code base](https://github.com/okkkko/a-tiny-JS-world/tree/gh-pages)
+
+## Object-Oriented JavaScript
+[Demo](https://okkkko.github.io/frontend-nanodegree-arcade-game/index.html) |
+[Code base](https://github.com/okkkko/frontend-nanodegree-arcade-game/tree/master/js)
+<details>
+  <summary>Object Oriented JS</summary>
+  <img src ="task_js_oop/udacity.jpg" width=95%>
+</details>
+<details>
+  <summary>Codewars</summary>
+  <img src ="task_js_oop/codewars.jpg" width=95%>
+</details>
+OOP was new to me. 
+During this task I fond out:
+
+* there are memory scope (execution context), beside lexical scope; the difference between them;
+* what is closure;
+* about this and new keywords and how to use them;
+* about prototype chains;
+* about different class patterns;
+
+Frogger game gave me a great opportunity to practice my new knowledge, understand oop better. All reviews were helpful and I learn some more cool stuff.
+
